@@ -1,17 +1,23 @@
 [
  {
-    "idgame": 0,
-    "name": "Quà tân thủ",
-    "title": "QUÀ TÂN THỦ",
-    "onoff": "is_first_game",
-    "time": "Sự kiện chạy xuyên suốt trên cổng game",
-    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 Vàng( tổng giải thưởng 100.000 Vàng )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 Vàng( tổng giải thưởng 200.000 Vàng )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 Vàng( tổng giải thưởng 200.000 Vàng )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game Vàng99. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
-    "giaithuong": "",
-    "luuy": "- Tài khoản phải đăng ký bảo mật SĐT\n- Vàng thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
-    "doituong": "Tất cả các khách hàng tham gia chơi Vàng trên cổng game",
-    "img": "https://techbuild.xyz/img/horse/banner/1.jpg"
+ "img": "https://techbuild.xyz/img/horse/banner/X9A.png"
   },
-    {
+ {
+ "img": "https://techbuild.xyz/img/horse/banner/X9B.png"
+  },
+{
+ "img": "https://techbuild.xyz/img/horse/banner/X9B.png"
+  },
+{
+ "img": "https://techbuild.xyz/img/horse/banner/2.jpg"
+  },
+{
+ "img": "https://techbuild.xyz/img/horse/banner/X9C.png"
+  },
+{
+ "img": "https://techbuild.xyz/img/horse/banner/X9D.png"
+  },
+  {
     "idgame": 1,
     "name": "Nhiệm vụ",
     "title": "Nhiệm vụ",
