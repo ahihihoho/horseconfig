@@ -1,14 +1,18 @@
 [
  {
+"idgame": 1,
  "img": "https://techbuild.xyz/img/horse/banner/7days.png"
   },
  {
+"idgame": 2,
  "img": "https://techbuild.xyz/img/horse/banner/1m.png"
   },
 {
+"idgame": 3,
  "img": "https://techbuild.xyz/img/horse/banner/topbxh.png"
   },
 {
+ "idgame": 4,
  "img": "https://techbuild.xyz/img/horse/banner/X9C.png"
   },
   {
